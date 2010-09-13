@@ -4,6 +4,6 @@ class HelloWorld {
 			System.out.println(i);
 		}
 		System.out.println("Blast off!");
-		System.out.println("Yay! We launched");
+		System.out.println("Noooooooo we're gonna crash! The engine failed.");
 	}
 }
